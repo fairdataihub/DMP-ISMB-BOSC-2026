@@ -27,8 +27,9 @@ We list here major resources relevant to our poster and talk.
 
 | Description | Link |
 |-------------|------|
-| LLM DMP Generation Code | https://github.com/fairdataihub/nih-dmp-llm-generation |
-| Evaluation & Analysis Code | https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code |
+| LLM DMP Generation Code | https://github.com/fairdataihub/nih-dmp-llm-generation ; https://doi.org/10.5281/zenodo.20145725 |
+| Evaluation & Analysis Code | https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code ; https://doi.org/10.5281/zenodo.19462642 |
+| Dataset |https://doi.org/10.5281/zenodo.19456208 |
 
 ## License
 
@@ -41,9 +42,6 @@ The material in this repository is licensed under a [Creative Commons Attributio
 For submitting feedback or getting in touch:
 
 - **GitHub Issues** — [Submit a question or suggestion](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/issues)
-- **Poster** — https://doi.org/10.5281/zenodo.20145725
-- **Paper** — https://doi.org/10.5281/zenodo.19462642
-- **Dataset** — https://doi.org/10.5281/zenodo.19456208
 ---
 
 ## 📍 Location
