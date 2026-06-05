@@ -13,13 +13,13 @@ Our research compared **GPT-4.1** and **Llama 3.3** against human-written DMP ex
 
 | Type | Date & Time | Authors | Session / Location | Details |
 |------|-------------|---------|-------------------|---------|
-| Poster | [Date & Time TBD]| Nahid Zeinali (presenter), [Co-authors] | TBD | [ISMB/BOSC 2026 schedule](#) |
+| Poster | [Date & Time TBD] | Nahid Zeinali (presenter), [Co-authors] | TBD | [ISMB/BOSC 2026 schedule](#) |
 | Oral Talk | [Date & Time TBD] | Nahid Zeinali, [Co-authors] | [Session TBD] | [ISMB/BOSC 2026 schedule](#) |
 
 ## Meeting material
 
-- **[Poster #927](./poster_927_dmp_evaluation.pdf)** — Main conference poster (46"×46"). Also available on [(#) or conference materials
-- **[Presentation slides](./oral_presentation_slides.pdf)** — Supporting slides for oral talk. DOI: [TBD](#)
+- **[Poster #927](./poster_927_dmp_evaluation.pdf)** — Main conference poster (46"×46")
+- **[Presentation slides](./oral_presentation_slides.pdf)** — Supporting slides for oral talk
 
 ## Resources
 
@@ -27,8 +27,8 @@ We list here major resources relevant to our poster and talk.
 
 | Description | Link |
 |-------------|------|
-| Everything related to Data Management Plans | |
-
+| LLM DMP Generation Code | https://github.com/fairdataihub/nih-dmp-llm-generation |
+| Evaluation & Analysis Code | https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code |
 
 ## License
 
@@ -40,8 +40,21 @@ The material in this repository is licensed under a [Creative Commons Attributio
 
 For submitting feedback or getting in touch:
 
-- **GitHub Issues** — [Submit a question or suggestion](https://github.com/[your-org]/[your-repo]/issues)
-
+- **GitHub Issues** — [Submit a question or suggestion](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/issues)
+- **Poster** — https://doi.org/10.5281/zenodo.20145725
+- **Paper** — https://doi.org/10.5281/zenodo.19462642
+- **Dataset** — https://doi.org/10.5281/zenodo.19456208
 ---
 
+## 📍 Location
 
+Washington, DC  
+[ISMB 2026 Website](https://www.iscb.org/ismb2026) | [BOSC 2026 Website](https://www.open-bio.org/events/bosc-2026/)
+
+## 🗓 Date and Time
+
+**ISMB/ECCB 2026** runs July 12–16, 2026, in Washington, DC.  
+**BOSC** is a multi-day COSI within ISMB (July 14-15).  
+**CoFest** (collaborative sprinting event) follows on July 17–18.  
+
+Specific session times for our talks and posters are TBD. Check back as the conference schedule is released.
