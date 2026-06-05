@@ -13,8 +13,8 @@ Our research compared **GPT-4.1** and **Llama 3.3** against human-written DMP ex
 
 | Type | Date & Time | Authors | Session / Location | Details |
 |------|-------------|---------|-------------------|---------|
-| Poster | [Date & Time TBD] | Nahid Zeinali (presenter), [Co-authors] | TBD | [ISMB/BOSC 2026 schedule](#) |
-| Oral Talk | [Date & Time TBD] | Nahid Zeinali, [Co-authors] | [Session TBD] | [ISMB/BOSC 2026 schedule](#) |
+| Poster | [Date & Time TBD] | Nahid Zeinali (presenter), Xuebin Dong, Rebecca Hofstein Grady, Maria Praetzellis, Brian Riley, Bhavesh Patel| TBD | [ISMB/BOSC 2026 schedule](#) |
+| Oral Talk | [Date & Time TBD] | Nahid Zeinali (presenter), Xuebin Dong, Rebecca Hofstein Grady, Maria Praetzellis, Brian Riley, Bhavesh Patel | [Session TBD] | [ISMB/BOSC 2026 schedule](#) |
 
 ## Meeting material
 
