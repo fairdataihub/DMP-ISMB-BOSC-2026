@@ -7,7 +7,9 @@
 
 This repository contains the material and information associated with our poster presentation and talk at the Bioinformatics Open Source Conference (BOSC) 2026. We are presenting a study evaluating how well large language models (LLMs) can generate NIH-compliant Data Management Plans (DMPs) off-the-shelf.
 
-Our research compared **GPT-4.1** and **Llama 3.3** against human-written DMP examples from previously funded NIH proposals using both automatic metrics (SBERT similarity, ROUGE scores) and expert human review. The findings demonstrate that while LLMs can accelerate initial draft creation, expert review remains essential before submission to ensure compliance and quality.
+## Abstract 
+Data Management Plans (DMPs) are now required by most funders for grant proposals to ensure researchers plan in advance for effective data management and sharing. Preparing a DMP is usually difficult for researchers because they often lack training and knowledge in data management practices. Moreover, funding organizations have different policies that require adherence to specific data management strategies and DMP formats. In this work, we evaluated the performance of Large Language Models (LLMs) in drafting DMPs compliant with the National Institutes of Health (NIH)’s 2023 guidelines. The goal was to investigate whether LLMs were ready, off-the-shelf, to assist biomedical researchers in preparing their DMPs. We evaluated the performance of an open-source LLM, Llama 3.3, and a commercial LLM, GPT 4, in drafting NIH-compliant DMPs. We used comparisons to NIH-provided human-written DMP samples to quantify the performance of Llama and GPT models. We also asked domain experts to evaluate LLM-generated DMPs. Overall, we found that LLMs can accelerate initial draft creation, but would still require expert review before submission to ensure full correctness and compliance. Moreover, open-source LLMs may not be as ready off-the-shelf as commercial ones for drafting funding-compliant DMPs.
+
 
 ## Schedule
 
