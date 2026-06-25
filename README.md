@@ -13,7 +13,7 @@ Our research compared **GPT-4.1** and **Llama 3.3** against human-written DMP ex
 
 | Type | Date & Time | Authors | Session / Location | Details |
 |------|-------------|---------|-------------------|---------|
-| Poster | [July 16, 2026, at 10:00-11:00 am and 4:00-4:40 pm] | Nahid Zeinali (presenter), Xuebin Dong, Rebecca Hofstein Grady, Maria Praetzellis, Brian Riley, Bhavesh Patel| Poster Session D, Columbia Ballroom | [https://www.open-bio.org/events/bosc-2026/bosc-2026-schedule/](#) |
+| Poster | July 16, 2026, at 10:00-11:00 am and 4:00-4:40 pm | Nahid Zeinali (presenter), Xuebin Dong, Rebecca Hofstein Grady, Maria Praetzellis, Brian Riley, Bhavesh Patel| Poster Session D, Columbia Ballroom | [https://www.open-bio.org/events/bosc-2026/bosc-2026-schedule/](#) |
 | Oral Talk | July 15, 2026, 15:20-15:25 pm | Nahid Zeinali (presenter), Xuebin Dong, Rebecca Hofstein Grady, Maria Praetzellis, Brian Riley, Bhavesh Patel | [Session 5b: AI] | [https://www.open-bio.org/events/bosc-2026/bosc-2026-schedule/](#) |
 
 ## Meeting material
