@@ -18,8 +18,8 @@ Our research compared **GPT-4.1** and **Llama 3.3** against human-written DMP ex
 
 ## Meeting material
 
-- **[Poster #927](./poster_927_dmp_evaluation.pdf)** — Main conference poster (46"×46")
-- **[Presentation slides](./oral_presentation_slides.pdf)** — Supporting slides for oral talk
+- **[Poster #927](./poster_927_dmp_evaluation.pdf)** — conference poster. (to be added closer to the event)
+- **[Presentation slides](./oral_presentation_slides.pdf)** — slides of our talk. (to be added closer to the event)
 
 ## Resources
 
