@@ -20,7 +20,7 @@ Data Management Plans (DMPs) are now required by most funders for grant proposal
 
 ## Meeting material
 
-- **[Poster #927](./poster_927_dmp_evaluation.pdf)** — conference poster. (to be added closer to the event)
+- **[Poster #927](https://github.com/fairdataihub/DMP-ISMB-BOSC-2026/blob/main/ISMB20262155ZeinaliPoster.pdf)** — conference poster. (to be added closer to the event)
 - **[Presentation slides](./oral_presentation_slides.pdf)** — slides of our talk. (to be added closer to the event)
 
 ## Resources
